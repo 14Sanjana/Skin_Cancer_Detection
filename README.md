@@ -27,6 +27,11 @@ A deep learning web application that classifies skin lesions from dermoscopic im
 - Risk Level: Low  
 - Precautions: Harmless but monitor for changes. Keep skin moisturized.
 
+  ## 🎥 Demo Video
+
+👉 [Watch the demo video on Google Drive]([(https://drive.google.com/file/d/1fIxPbhfFN_wHbfWIpeLClCE_Rk9AA5Ws/view?usp=sharing)]
+  
+
 ## 📓 Notebooks
 
 This folder contains all the Jupyter notebooks used during model development, including data exploration, model training, and evaluation.
