@@ -1,0 +1,13 @@
+# Core libraries
+tensorflow==2.13.0
+numpy
+pandas
+opencv-python
+
+# Visualization
+matplotlib
+seaborn
+
+# Web app
+streamlit
+
